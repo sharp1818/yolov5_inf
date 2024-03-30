@@ -27,7 +27,7 @@ inference_time = end_time - start_time
 # Mostrar la velocidad de inferencia
 print(f"Tiempo de inferencia: {inference_time:.2f} ")
 
-# results.save()
+results.save()
 
 
 
